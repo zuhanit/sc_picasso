@@ -1,6 +1,5 @@
 import struct
 from generator import findSimilarTile2
-from keyboard import press
 import image
 from convert import convertImage, convertTileset
 from math import sqrt
